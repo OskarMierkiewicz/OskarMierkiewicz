@@ -18,7 +18,7 @@
 
 <h3 align="left">Languages:</h3>
 <p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
-<a href="https://files.fm/u/qxtxenn4c#/view/logo-project-r-icon-r-programming-logo-text-alphabet-symbol-trademark-transparent-png-2975223.png"><img src="https://files.fm/thumb_show.php?i=27zcap5x9" alt="R" width="40" height="40"/></a><a href="https://files.fm/u/r3tygxh8d#/view/1024px-Bash_Logo_Colored.svg.png"><img src="https://files.fm/thumb_show.php?i=6uwe3sc4d" alt="bash" width="40" height="40"/></a>
+<a href="https://files.fm/u/qxtxenn4c#/view/logo-project-r-icon-r-programming-logo-text-alphabet-symbol-trademark-transparent-png-2975223.png"><img src="https://files.fm/thumb_show.php?i=27zcap5x9" alt="R" width="40" height="40"/></a><a href="https://files.fm/u/a2a6m2ajj#/view/pngfind.com-shell-logo-png-2614514.png"><img src="https://files.fm/thumb_show.php?i=8cgazb8vs" alt="bash" width="40" height="40"></a>
 </p>
 
 <h3 align="left">Database:</h3>
