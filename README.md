@@ -1,5 +1,5 @@
 <html>
-<body style="background-color:grey;">
+<body style="grey">
 
 <h1 align="center">Well Hello, I'm Oskar</h1>
 <h3 align="center">Big Data Engineer 💾</h3>
