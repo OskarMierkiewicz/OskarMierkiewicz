@@ -7,11 +7,9 @@
 
 - I’m currently working as **Database Administrator** 
 
-- Learning **JavaScript** and improving my **Python** skills
+- Improving my **Python** and **Swift** skills
 
-- My first big procjet is **analitycal dashboard** 📊
-
-- Fun fact I'm a **paramedic** who's working as DBA
+- My first big procjet is **analytical dashboard** (python) and **iOS app** (swift)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
