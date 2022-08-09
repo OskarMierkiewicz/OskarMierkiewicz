@@ -7,7 +7,7 @@
 
 - I’m currently working as **Junior Database Administrator** 
 
-- My first big procjet is **analytical dashboard** using Python. 
+- My first big procjet is **analytical dashboard**, with Python. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
