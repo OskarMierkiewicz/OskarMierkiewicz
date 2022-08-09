@@ -5,11 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oskarmierkiewicz&label=Profile%20views&color=0e75b6&style=flat" alt="oskarmierkiewicz" /> </p>
 
-- I’m currently working as **Database Administrator** 
+- I’m currently working as **Junior Database Administrator** 
 
-- Improving my **Python** and **Swift** skills
-
-- My first big procjet is **analytical dashboard** (python) and **iOS app** (swift)
+- My first big procjet is **analytical dashboard** using Python. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
