@@ -5,9 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oskarmierkiewicz&label=Profile%20views&color=0e75b6&style=flat" alt="oskarmierkiewicz" /> </p>
 
-- I’m currently working as **Junior Database Administrator** 
+Currently working as **Junior Database Administrator** 
 
-- My first big procjet is **analytical dashboard**, with Python. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
