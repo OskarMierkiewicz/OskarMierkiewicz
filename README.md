@@ -31,6 +31,6 @@ Currently working as **Junior Database Administrator**
 </p>
 
 ##
-<center>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oskarmierkiewicz&show_icons=true&locale=en&layout=compact" alt="oskarmierkiewicz"/></p>
-</center>
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=oskarmierkiewicz&show_icons=true&locale=en&layout=compact" alt="oskarmierkiewicz"/></p>
+
