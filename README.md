@@ -3,6 +3,8 @@
 <h1 align="center">Well Hello, I'm Oskar</h1>
 <h3 align="center">Big Data Engineer 💾</h3>
 
+##
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oskarmierkiewicz&label=Profile%20views&color=0e75b6&style=flat" alt="oskarmierkiewicz" /> </p>
 
 Currently working as **Junior Database Administrator** 
@@ -31,5 +33,5 @@ Currently working as **Junior Database Administrator**
 
 ##
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=oskarmierkiewicz&show_icons=true&locale=en&layout=compact" alt="oskarmierkiewicz"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oskarmierkiewicz&show_icons=true&locale=en&layout=compact" alt="oskarmierkiewicz"/></p>
 
