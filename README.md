@@ -6,9 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oskarmierkiewicz&label=Profile%20views&color=0e75b6&style=flat" alt="oskarmierkiewicz" /> </p>
 
-Currently working as **Junior Database Administrator** 
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/oskar-mierkiewicz-1a67b0a6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oskarmierkiewicz" height="30" width="40" /></a>
