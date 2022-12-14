@@ -10,7 +10,7 @@
   
   
 <br>
-🧠 <b><a href="https://github.com/NorthBrainsAnalytics">NorthBrains Analytics</a></b> - check my last projects here 🤓
+🧠 <b><a href="https://github.com/NorthBrains">NorthBrains Analytics</a></b> - check my last projects here 🤓
 <br>
 
 </h3>
