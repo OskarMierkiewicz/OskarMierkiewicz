@@ -16,7 +16,7 @@
 
 #### Coding
 
-![Scala](http://img.shields.io/badge/-Scala-DC322F?style=flat-square&logo=ruby&logoColor=ffffff)
+![Ruby](http://img.shields.io/badge/-Scala-DC322F?style=flat-square&logo=ruby&logoColor=ffffff)
 ![Bash](http://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=ffffff)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![PHP](http://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=ffffff)
