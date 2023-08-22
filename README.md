@@ -48,4 +48,4 @@
 ![Linux](http://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=ffffff)
 ![Git](http://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=ffffff)
 ![Docker](http://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)
-![Docker](http://img.shields.io/badge/-Azure-2496ED?style=flat-square&logo=azure&logoColor=ffffff)
+![Azure](https://img.shields.io/badge/Azure-blue?logo=Azure)
