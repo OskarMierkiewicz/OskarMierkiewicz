@@ -29,7 +29,7 @@
 ![MariaDB](http://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=MongoDB)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?logo=PostgreSQL)
-![Oracle](http://img.shields.io/badge/-Oracle-005571?style=flat-square&logo=oracle&logoColor=ffffff)
+![Oracle](https://img.shields.io/badge/Oracle-red?logo=Oracle)
 ![Ingres](http://img.shields.io/badge/-Ingres-005571?style=flat-square&logo=ingres&logoColor=red)
 ![SQLServer](http://img.shields.io/badge/-SQLServer-005571?style=flat-square&logo=sqlserver&logoColor=blue)
 
