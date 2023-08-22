@@ -38,8 +38,9 @@
 
 ![Apache Spark](http://img.shields.io/badge/-Apache_Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=ffffff)
 ![Apache Airflow](http://img.shields.io/badge/-Apache_Airflow-E27A1C?style=flat-square&logo=apache-airflow&logoColor=ffffff)
-![Apache NiFi](http://img.shields.io/badge/-NiFi-E27A1C?style=flat-square&logo=nifi&logoColor=ffffff)
-![Hadoop](http://img.shields.io/badge/-Hadoop-E27A1C?style=flat-square&logo=hadoop&logoColor=ffffff)
+![Apache NiFi](https://img.shields.io/badge/NiFi-grey?logo=NiFi)
+![Hadoop](https://img.shields.io/badge/Hadoop-yellow?logo=Hadoop)
+![Spark](https://img.shields.io/badge/Spark-orange?logo=Spark)
 
 
 #### Envs & rest
