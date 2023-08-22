@@ -7,12 +7,6 @@
 [![](https://img.shields.io/badge/LinkedIn-OskarMierkiewicz-blue?style=flat-square)](https://www.linkedin.com/in/oskar-mierkiewicz-1a67b0a6/)
 [![](https://img.shields.io/badge/Email-o.mierkiewicz@gmail.com-orange?style=flat-square)](mailto:o.mierkiewicz@gmail.com)
 <img src="https://komarev.com/ghpvc/?username=oskarmierkiewicz&label=Profile%20views&color=0e75b6&style=flat" alt="oskarmierkiewicz" />
-  
-  
-<br>
-🧠 <b><a href="https://github.com/NorthBrains">NorthBrains Analytics</a></b> - check my last projects here 🤓
-<br>
-
 </h3>
 
 <br>
