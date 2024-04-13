@@ -1,5 +1,5 @@
 <h1 align="center">Well Hello, I'm Oskar</h1>
-<h3 align="center">Data Engineer 💾</h3>
+<h3 align="center">Data Engineer & DevOps 💾</h3>
 <br>
 
 <h3 align="center">
