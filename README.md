@@ -37,12 +37,13 @@
 
 ![Apache Spark](http://img.shields.io/badge/-Apache_Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=ffffff)
 ![Apache Airflow](http://img.shields.io/badge/-Apache_Airflow-E27A1C?style=flat-square&logo=apache-airflow&logoColor=ffffff)
+![Apache Flink](http://img.shields.io/badge/-Apache_Flink-E25A1C?style=flat-square&logo=apache-flink&logoColor=ffffff)
 ![Apache NiFi](https://img.shields.io/badge/Apache_NiFi-grey?logo=Apache_NiFi)
 ![Hadoop](https://img.shields.io/badge/Hadoop-yellow?logo=Hadoop)
 ![Databricks](https://img.shields.io/badge/Databricks-white?logo=Databricks)
 
 
-#### Envs & rest
+#### DevOps
 
 ![Linux](http://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=ffffff)
 ![Git](http://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=ffffff)
