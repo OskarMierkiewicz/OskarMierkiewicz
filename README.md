@@ -51,4 +51,4 @@
 ![Kubernetes](http://img.shields.io/badge/-Kubernetes-2496ED?style=flat-square&logo=kubernetes&logoColor=ffffff)
 ![Azure](https://img.shields.io/badge/Azure-blue?logo=Azure)
 ![Oracle](https://img.shields.io/badge/Oracle-red?logo=Oracle)
-![AWS](https://img.shields.io/badge/Aws-orange?logo=Aws)
+![AWS](https://img.shields.io/badge/AWS-orange?logo=AWS)
