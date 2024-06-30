@@ -52,3 +52,4 @@
 ![Azure](https://img.shields.io/badge/Azure-blue?logo=Azure)
 ![Oracle](https://img.shields.io/badge/Oracle-red?logo=Oracle)
 ![AWS](https://img.shields.io/badge/AWS-orange?logo=AWS)
+![Grafana](https://img.shields.io/badge/Grafana-orange?logo=Grafana)
