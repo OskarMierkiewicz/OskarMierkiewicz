@@ -53,4 +53,4 @@
 ![Oracle](https://img.shields.io/badge/Oracle-red?logo=Oracle)
 ![AWS](https://img.shields.io/badge/AWS-orange?logo=AWS)
 ![Grafana](https://img.shields.io/badge/Grafana-white?logo=Grafana)
-![Prometheus](https://img.shields.io/badge/Prometheus-blue?logo=Prometheus)
+![Prometheus](https://img.shields.io/badge/Prometheus-white?logo=Prometheus)
