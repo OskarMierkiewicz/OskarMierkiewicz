@@ -39,6 +39,7 @@
 ![Apache Airflow](http://img.shields.io/badge/-Apache_Airflow-E27A1C?style=flat-square&logo=apache-airflow&logoColor=ffffff)
 ![Apache Flink](http://img.shields.io/badge/-Apache_Flink-E25A1C?style=flat-square&logo=apache-flink&logoColor=ffffff)
 ![Apache NiFi](https://img.shields.io/badge/Apache_NiFi-grey?logo=Apache_NiFi)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-white?logo=Apache_Kafka)
 ![Hadoop](https://img.shields.io/badge/Hadoop-yellow?logo=Hadoop)
 ![Databricks](https://img.shields.io/badge/Databricks-white?logo=Databricks)
 
@@ -54,3 +55,4 @@
 ![AWS](https://img.shields.io/badge/AWS-orange?logo=AWS)
 ![Grafana](https://img.shields.io/badge/Grafana-white?logo=Grafana)
 ![Prometheus](https://img.shields.io/badge/Prometheus-white?logo=Prometheus)
+![Ansible](https://img.shields.io/badge/Ansible-white?logo=Ansible)
