@@ -16,12 +16,11 @@
 
 #### Coding
 
-![Ruby](https://img.shields.io/badge/Ruby-red?logo=Ruby)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![Scala](https://img.shields.io/badge/Scala-red?logo=Scala)
 ![SQL](https://img.shields.io/badge/SQL-blue?logo=SQL)
 ![Bash](http://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=ffffff)
-![Perl](https://img.shields.io/badge/Perl-grey?logo=Perl)
+![Go](https://img.shields.io/badge/Perl-blue?logo=Go)
 
 #### Database
 
