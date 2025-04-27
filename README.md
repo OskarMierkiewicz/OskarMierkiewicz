@@ -20,7 +20,7 @@
 ![Scala](https://img.shields.io/badge/Scala-red?logo=Scala)
 ![SQL](https://img.shields.io/badge/SQL-blue?logo=SQL)
 ![Bash](http://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=ffffff)
-![Go](https://img.shields.io/badge/Perl-blue?logo=Go)
+![Go](https://img.shields.io/badge/Go-blue?logo=Go)
 
 #### Database
 
