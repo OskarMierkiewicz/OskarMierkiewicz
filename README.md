@@ -55,3 +55,4 @@
 ![Grafana](https://img.shields.io/badge/Grafana-white?logo=Grafana)
 ![Prometheus](https://img.shields.io/badge/Prometheus-white?logo=Prometheus)
 ![Ansible](https://img.shields.io/badge/Ansible-black?logo=Ansible)
+![Terraform](https://img.shields.io/badge/Terraform-purple?logo=Terraform)
