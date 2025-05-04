@@ -27,7 +27,6 @@
 ![MariaDB](http://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=MongoDB)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?logo=PostgreSQL)
-![OracleDB](https://img.shields.io/badge/Oracle-red?logo=Oracle)
 ![Redis](http://img.shields.io/badge/-Redis-005571?style=flat-square&logo=Redis&logoColor=red)
 ![SQLServer](http://img.shields.io/badge/-SQLServer-005571?style=flat-square&logo=sqlserver&logoColor=blue)
 
@@ -49,10 +48,13 @@
 ![Git](http://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=ffffff)
 ![Docker](http://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)
 ![Kubernetes](http://img.shields.io/badge/-Kubernetes-2496ED?style=flat-square&logo=kubernetes&logoColor=ffffff)
-![Azure](https://img.shields.io/badge/Azure-blue?logo=Azure)
-![Oracle](https://img.shields.io/badge/Oracle-red?logo=Oracle)
-![AWS](https://img.shields.io/badge/AWS-orange?logo=AWS)
 ![Grafana](https://img.shields.io/badge/Grafana-white?logo=Grafana)
 ![Prometheus](https://img.shields.io/badge/Prometheus-white?logo=Prometheus)
 ![Ansible](https://img.shields.io/badge/Ansible-black?logo=Ansible)
 ![Terraform](https://img.shields.io/badge/Terraform-purple?logo=Terraform)
+
+
+### Clouds ☁️
+![Azure](https://img.shields.io/badge/Azure-blue?logo=Azure)
+![Oracle](https://img.shields.io/badge/Oracle-red?logo=Oracle)
+![AWS](https://img.shields.io/badge/AWS-orange?logo=AWS)
